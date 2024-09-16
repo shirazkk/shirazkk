@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>My-Info</title>
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Shiraz Ali</h1>
