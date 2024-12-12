@@ -8,7 +8,7 @@
 
 <!-- Header Section -->
 <h1 align="center">👋 Hello, I'm Shiraz Ali</h1>
-<h3 align="center">Passionate about Generative-AI & Web Development</h3>
+<h3 align="center">Passionate about Agentic-AI & Web Development</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=shirazkk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
