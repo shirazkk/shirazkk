@@ -1,27 +1,177 @@
-# 💫 About Me:
-# 👋 Hi, I'm Shiraz Ali<br><br><div align="center"><br>  <br>  ### Web Developer • Agentic AI Developer<br>  <br>  ![Profile Views](https://komarev.com/ghpvc/?username=shirazkk&label=Profile%20views&color=0e75b6&style=flat)<br>  <br>  📍 Karachi, Sindh, Pakistan | 📧 shirazkk8@gmail.com<br>  <br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shiraz-ali)<br>  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=vercel)](https://shirazali-portfolio.vercel.app/)<br>  <br></div><br><br>---<br><br>## 🚀 About Me<br><br>I'm a passionate **Frontend Developer** specializing in building dynamic and user-friendly web applications. Currently expanding my expertise in **Agentic AI** and exploring its integration with modern web technologies. I have a strong foundation in both frontend development and backend programming, with a focus on creating scalable, high-performance applications.<br><br>- 🔭 Currently working on **Agentic AI projects** and **Next.js applications**<br>- 🌱 Learning **OpenAI Agent SDK**, **CrewAI**, and **LangChain**<br>- 🎓 Studying **Bachelor's in Artificial Intelligence** at Sindh Madressatul Islam University<br>- 📚 Enrolled in **Cloud Native Agentic AI Engineering** at PIAIC<br>- 💼 Former **Frontend Development Intern** at DevelopersHub Corporation<br>- 🏆 **Winner** of GDG Kolachi Hackathon (Bus Kahan Hai? Project)<br>- 💡 Available for new projects and collaborations<br><br>---<br><br>## 💼 Professional Experience<br><br>### Frontend Development Intern<br>**DevelopersHub Corporation** | *March 2025 - July 2025*<br><br>- Developed responsive e-commerce platforms with pixel-perfect accuracy from Figma designs<br>- Created user-friendly interfaces for networking applications with dashboard and chatbot integration<br>- Enhanced user engagement through optimized UI/UX implementations<br>- Successfully delivered projects using Next.js, Tailwind CSS, TypeScript, and Shadcn<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Web Development<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br><br>### AI & Backend<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)<br>![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)<br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)<br><br>### Tools & Platforms<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)<br>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br>![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)<br>![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)<br>![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)<br><br>---<br><br>## 🏆 Highlighted Projects<br><br>### 🤖 AI Projects<br>- **Shopping Assistant AI Agent** - Intelligent shopping assistant using OpenAI Agent SDK<br>- **LangChain RAG System** - Retrieval-Augmented Generation system for document processing<br>- **Weather Agent Crew** - Multi-agent weather assistant using CrewAI<br>- **Document Converter** - AI-powered document processing and conversion tool<br><br>### 💻 Web Development<br>- **7-Days Marketplace Builder Hackathon** - Full-featured e-commerce platform built in 7 days<br>- **Business Nexus** - Professional networking platform with dashboard and chat integration<br>- **Golden Elegance** - Luxury jewelry e-commerce store with Sanity CMS<br>- **Bus Kahan Hai?** - 🏆 **GDG Kolachi Hackathon Winner** - Real-time Karachi bus tracking system<br>- **Resume Builder Website** - Interactive resume creation tool<br>- **Tech Trends Blog** - Modern blog platform with dynamic content<br>- **EduNest School Website** - Comprehensive educational platform<br>- **Netflix Clone** - Streaming platform interface clone<br>- **13 Next.js Projects Collection** - Collection of mini applications showcasing various features<br><br>### 🎨 Interactive Projects<br>- **Solar System Visualization** - Interactive 3D solar system animation<br>- **Unit Converter Web App** - Multi-purpose unit conversion tool<br>- **Password Strength Meter** - Security tool for password validation<br><br>---<br><br>## 📜 Certifications<br><br>- 🎓 **Fundamental AI Concepts** - UniAthena (2025)<br>- ⚛️ **React.js Certification** - HackerRank (2024)<br>- 📘 **Introduction to TypeScript** - Great Learning (2024)<br>- 🤖 **Fundamental AI Concept** - Great Learning (2024)<br>- 🐍 **AI Python** - DeepLearning.AI (2024)<br><br>---<br><br>## 📊 GitHub Stats<br><br><div align="center"><br>  <br>  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shirazkk&show_icons=true&locale=en&layout=compact&theme=radical)<br>  <br>  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirazkk&show_icons=true&locale=en&theme=radical)<br>  <br>  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shirazkk&theme=radical)<br>  <br></div><br><br>---<br><br>## 🎯 Current Focus<br><br>- 🔨 Building agentic AI applications with **OpenAI Agent SDK** and **CrewAI**<br>- 🌐 Creating scalable web applications with **Next.js** and **TypeScript**<br>- 🧠 Exploring **RAG (Retrieval-Augmented Generation)** systems with **LangChain**<br>- 🐳 Containerizing applications with **Docker**<br>- ☁️ Learning cloud-native development patterns<br><br>---<br><br>## 📫 Let's Connect<br><br>I'm always open to interesting conversations and collaboration opportunities!<br><br>- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/shiraz-ali)<br>- 🌐 **Portfolio:** [shirazali-portfolio.vercel.app](https://shirazali-portfolio.vercel.app/)<br>- 📧 **Email:** shirazkk8@gmail.com<br><br>---<br><br><div align="center"><br>  <br>  ### 💡 "Building the future, one line of code at a time"<br>  <br>  ![Coding](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)<br>  <br>  ⭐ From [shirazkk](https://github.com/shirazkk)<br>  <br></div><br>
+<div align="center">
 
+# 👋 Hi, I'm Shiraz Ali
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shirazali8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shirazkk8@gmail.com) 
+### Web Developer • Agentic AI Developer
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shirazkk&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shirazkk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shirazkk&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=shirazkk&label=Profile%20views&color=0e75b6&style=flat)
+
+📍 Karachi, Sindh, Pakistan | 📧 shirazkk8@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shirazali8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=vercel)](https://shirazali-portfolio.vercel.app/)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Frontend Developer** specializing in building dynamic and user-friendly web applications. Currently expanding my expertise in **Agentic AI** and exploring its integration with modern web technologies. I have a strong foundation in both frontend development and backend programming, with a focus on creating scalable, high-performance applications.
+
+- 🔭 Currently working on **Agentic AI projects** and **Next.js applications**
+- 🌱 Learning **OpenAI Agent SDK**, **CrewAI**, and **LangChain**
+- 🎓 Studying **Bachelor's in Artificial Intelligence** at Sindh Madressatul Islam University
+- 📚 Enrolled in **Cloud Native Agentic AI Engineering** at PIAIC
+- 💼 Former **Frontend Development Intern** at DevelopersHub Corporation
+- 🏆 **Winner** of GDG Kolachi Hackathon (Bus Kahan Hai? Project)
+- 💡 Available for new projects and collaborations
+
+---
+
+## 💼 Professional Experience
+
+### Frontend Development Intern
+**DevelopersHub Corporation** | *March 2025 - July 2025*
+
+- Developed responsive e-commerce platforms with pixel-perfect accuracy from Figma designs
+- Created user-friendly interfaces for networking applications with dashboard and chatbot integration
+- Enhanced user engagement through optimized UI/UX implementations
+- Successfully delivered projects using Next.js, Tailwind CSS, TypeScript, and Shadcn
+
+---
+
+## 💻 Tech Stack
+
+### Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### AI & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+---
+
+## 🏆 Highlighted Projects
+
+### 🤖 AI Projects
+- **Shopping Assistant AI Agent** - Intelligent shopping assistant using OpenAI Agent SDK
+- **LangChain RAG System** - Retrieval-Augmented Generation system for document processing
+- **Weather Agent Crew** - Multi-agent weather assistant using CrewAI
+- **Document Converter** - AI-powered document processing and conversion tool
+
+### 💻 Web Development
+- **7-Days Marketplace Builder Hackathon** - Full-featured e-commerce platform built in 7 days
+- **Business Nexus** - Professional networking platform with dashboard and chat integration
+- **Golden Elegance** - Luxury jewelry e-commerce store with Sanity CMS
+- **Bus Kahan Hai?** - 🏆 **GDG Kolachi Hackathon Winner** - Real-time Karachi bus tracking system
+- **Resume Builder Website** - Interactive resume creation tool
+- **Tech Trends Blog** - Modern blog platform with dynamic content
+- **EduNest School Website** - Comprehensive educational platform
+- **Netflix Clone** - Streaming platform interface clone
+- **13 Next.js Projects Collection** - Collection of mini applications showcasing various features
+
+### 🎨 Interactive Projects
+- **Solar System Visualization** - Interactive 3D solar system animation
+- **Unit Converter Web App** - Multi-purpose unit conversion tool
+- **Password Strength Meter** - Security tool for password validation
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Fundamental AI Concepts** - UniAthena (2025)
+- ⚛️ **React.js Certification** - HackerRank (2024)
+- 📘 **Introduction to TypeScript** - Great Learning (2024)
+- 🤖 **Fundamental AI Concept** - Great Learning (2024)
+- 🐍 **AI Python** - DeepLearning.AI (2024)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shirazkk&show_icons=true&locale=en&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirazkk&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shirazkk&theme=radical&hide_border=false)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
+
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=shirazkk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔨 Building agentic AI applications with **OpenAI Agent SDK** and **CrewAI**
+- 🌐 Creating scalable web applications with **Next.js** and **TypeScript**
+- 🧠 Exploring **RAG (Retrieval-Augmented Generation)** systems with **LangChain**
+- 🐳 Containerizing applications with **Docker**
+- ☁️ Learning cloud-native development patterns
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/shirazali8)
+- 🌐 **Portfolio:** [shirazali-portfolio.vercel.app](https://shirazali-portfolio.vercel.app/)
+- 📧 **Email:** shirazkk8@gmail.com
+
+---
+
+<div align="center">
+
+### 💡 "Building the future, one line of code at a time"
+
+![Coding](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shirazkk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=shirazkk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ From [shirazkk](https://github.com/shirazkk)
+
+</div>
