@@ -157,22 +157,33 @@ I'm a **Full Stack & Agentic AI Developer** based in Karachi, building productio
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shirazkk&show_icons=true&locale=en&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shirazkk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirazkk&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=shirazkk&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shirazkk&theme=radical&hide_border=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=shirazkk&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## 🏷️ GitHub Topics
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=shirazkk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Agentic AI](https://img.shields.io/badge/Topic-Agentic__AI-6D28D9?style=for-the-badge)](https://github.com/topics/agentic-ai)
+[![Full Stack](https://img.shields.io/badge/Topic-Full__Stack-007ACC?style=for-the-badge)](https://github.com/topics/full-stack)
+[![JAMstack](https://img.shields.io/badge/Topic-JAMstack-000000?style=for-the-badge)](https://github.com/topics/jamstack)
+[![Automation](https://img.shields.io/badge/Topic-Automation-3ECF8E?style=for-the-badge)](https://github.com/topics/automation)
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shirazkk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -194,9 +205,9 @@ Open to freelance projects, collaborations, and interesting conversations.
 
 ![Coding](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" />
 
-[![](https://visitcount.itsvg.in/api?id=shirazkk&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=shirazkk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ⭐ From [shirazkk](https://github.com/shirazkk)
 
