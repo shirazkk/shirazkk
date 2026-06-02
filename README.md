@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shirazkk&label=Profile%20views&color=0e75b6&style=flat)
 
-📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 shirazkk8@gmail.com &nbsp;|&nbsp; 🏢 Founder @ [Ziybex](https://ziybex.com)
+📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 shirazkk8@gmail.com &nbsp;|&nbsp; 🏢 Lead Developer @ [Ziybex](https://ziybex.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shirazali8)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=vercel)](https://shirazali-portfolio.vercel.app/)
@@ -18,25 +18,25 @@
 
 ## About Me
 
-I'm a **Full Stack & Agentic AI Developer** based in Karachi, building production-grade web applications and multi-agent AI systems for clients and my own ventures. I run **Ziybex**, a creative marketing & web agency, and specialize in shipping real things — not just demos.
+I'm a **Full Stack & Agentic AI Developer** based in Karachi, building production-grade web applications and multi-agent AI systems for clients and enterprise platforms. I work as the **Lead Developer** at **Ziybex**, a creative marketing & web agency, and specialize in shipping real things — not just demos.
 
 - 🤖 Building **multi-agent AI systems** with real-world deployments (WhatsApp, Gmail, cron pipelines)
 - 🚀 Shipping full-stack apps on **Google Cloud Run**, **Vercel**, and **Docker**
 - 🧠 Deep in **Agentic AI** — MCP servers, ACP protocol, orchestration platforms
 - 🎓 **BSc Artificial Intelligence** @ SMIU + **Cloud Native Agentic AI Engineering** @ PIAIC
-- 🏢 Founder of **Ziybex** — creative marketing & web agency
+- 🏢 Lead Developer at **Ziybex** — creative marketing & web agency
 - 🏆 Hackathon builder — GDG Kolachi Winner, Panaversity, Google AI Seekho 2026
 
 ---
 
 ## Professional Experience
 
-### Founder & Lead Developer
+### Lead Developer
 **Ziybex** *(Creative Marketing & Web Agency)* | *Present*
 
 - Delivering full-stack web solutions for clients including luxury event companies and real estate venues
 - Building AI-integrated marketing tools, transactional email systems, and landing pages
-- Managing end-to-end: design → development → deployment
+- Managing end-to-end engineering pipelines: architectural design → development → deployment
 
 ### Frontend Development Intern
 **DevelopersHub Corporation** | *March 2025 – July 2025*
