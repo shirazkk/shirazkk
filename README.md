@@ -44,6 +44,15 @@ I'm a **Full Stack & Agentic AI Developer** based in Karachi, building productio
 - Built responsive e-commerce platforms with pixel-perfect Figma implementation
 - Developed networking apps with dashboard and AI chatbot integration using Next.js, TypeScript, Tailwind, Shadcn
 
+### Founder
+**CodePulse Innovations**
+
+Founded and developed FolioGenerator.com, an AI-driven platform that enables users to instantly create professional portfolio websites from their resumes.
+Built and deployed the platform using modern web technologies, ensuring fast performance and scalability.
+Implemented a responsive and intuitive UI/UX for seamless access across all devices.
+Integrated cloud hosting and scalable backend solutions to deliver a smooth global user experience.
+Contributed to product vision, branding, and growth strategy, helping shape the platform from idea to launch.
+
 ---
 
 ## Tech Stack
@@ -81,62 +90,13 @@ I'm a **Full Stack & Agentic AI Developer** based in Karachi, building productio
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
----
-
-## Highlighted Projects
-
-### 🤖 Agentic AI
-
-**[Ustaad.ai](https://github.com/shirazkk)** — Multi-agent AI tutoring platform for Pakistani students
-- 6 subject-specific agents with Roman Urdu + English mixed language
-- Board-aware syllabus scoping, gamified learning, deployed on **Google Cloud Run**
-- Built for **Google AI Seekho 2026** Hackathon
-
-**OpenClaw Orchestration** — Personal multi-channel AI orchestration system
-- WhatsApp digests, Gmail monitoring, daily news agent via DuckDuckGo MCP
-- Cron-based scheduling, ACP protocol, multiple AI backends
-- Runs 24/7 as a personal AI operations layer
-
-**Personal AI Employee (Digital FTE)** — Panaversity Hackathon project
-- Gmail API integration, PM2 process management, Gemini SDK reasoning engine
-- Python orchestrator with full file I/O automation
-
-**Aria** — Personal AI companion with voice
-- FastAPI + OpenRouter + ElevenLabs TTS pipeline
-- Hinglish/Urdu personality, WhatsApp-integrated
-
-### 💼 Client & Agency Work
-
-**KK Events** — Luxury event decoration company website
-- Dark black-and-gold aesthetic, Cormorant Garamond typography
-- Next.js 14, Tailwind, Framer Motion
-
-**KK Green Heaven Lawn** — Banquet/wedding venue platform
-- Full design-to-deployment, cinematic aesthetic
-
-**Ziybex** — Agency site with parallax blobs, asymmetric grids, staggered animations
-
-### 💻 Web Development
-
-**Bus Kahan Hai?** — 🏆 **GDG Kolachi Hackathon Winner** — Real-time Karachi bus tracking
-
-**7-Days Marketplace Builder Hackathon** — Full e-commerce platform in 7 days
-
-**Business Nexus** — Professional networking platform with dashboard + chat
-
-**Golden Elegance** — Luxury jewelry e-commerce with Sanity CMS
-
-**13 Next.js Projects Collection** — Mini-apps showcasing various Next.js features
-
----
-
 ## Hackathons
 
 | Hackathon | Project | Result |
 |---|---|---|
 | 🏆 GDG Kolachi | Bus Kahan Hai? (Real-time bus tracker) | **Winner** |
-| 🤖 Google AI Seekho 2026 | Ustaad.ai (Multi-agent tutoring platform) | Phase 1 Submitted |
-| 💼 Panaversity | Personal AI Employee (Digital FTE) | Bronze Tier |
+| 🤖 Google AI Seekho 2026 | Ustaad.ai (Multi-agent tutoring platform) |
+| 💼 Panaversity | Personal AI Employee (Digital FTE) |
 
 ---
 
