@@ -76,23 +76,23 @@ $ ls -la ~/skills/
 
 <div align="center">
 
-**frontend**
+![frontend](https://img.shields.io/badge/-frontend-39FF14?style=flat-square&logoColor=black)
 <br>
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,framer&theme=dark" />
 
-**ai · agentic systems**
+![ai-agentic](https://img.shields.io/badge/-ai%20%C2%B7%20agentic%20systems-39FF14?style=flat-square&logoColor=black)
 <br>
 <img src="https://skillicons.dev/icons?i=anthropic,openai,gemini,langchain,redis&theme=dark" />
 
-**backend · infra**
+![backend](https://img.shields.io/badge/-backend%20%C2%B7%20infra-39FF14?style=flat-square&logoColor=black)
 <br>
 <img src="https://skillicons.dev/icons?i=fastapi,python,nodejs,docker,gcp,vercel&theme=dark" />
 
-**databases**
+![databases](https://img.shields.io/badge/-databases-39FF14?style=flat-square&logoColor=black)
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql&theme=dark" />
 
-**tools**
+![tools](https://img.shields.io/badge/-tools-39FF14?style=flat-square&logoColor=black)
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,figma,playwright,vscode&theme=dark" />
 
@@ -166,7 +166,7 @@ $ cat connect.json
 ```json
 {
   "linkedin": "linkedin.com/in/shirazali8",
-  "portfolio": "shirazali-portfolio.vercel.app",
+  "portfolio": "https://shirazabubakar.vercel.app",
   "agency": "ziybex.com",
   "email": "shirazkk8@gmail.com",
   "status": "open to freelance + collabs"
