@@ -1,174 +1,186 @@
 <div align="center">
 
-# Shiraz Ali
+```
+┌─[shirazkk@karachi]─[~]
+└──╼ $ whoami
+```
 
-### Full Stack Developer • Agentic AI Developer • Freelancer
+# SHIRAZ ALI
 
-![Profile Views](https://komarev.com/ghpvc/?username=shirazkk&label=Profile%20views&color=0e75b6&style=flat)
+![typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Agentic+AI+Developer;Lead+Developer+%40+Ziybex;Building+from+Karachi%2C+Pakistan)
 
-📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 shirazkk8@gmail.com &nbsp;|&nbsp; 🏢 Lead Developer @ [Ziybex](https://ziybex.com)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0D1117&height=3&section=header)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shirazali8)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=vercel)](https://shirazali-portfolio.vercel.app/)
-[![Agency](https://img.shields.io/badge/Ziybex-Agency-orange?style=flat&logo=google-chrome)](https://ziybex.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/shirazali8)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://shirazali-portfolio.vercel.app/)
+[![Ziybex](https://img.shields.io/badge/ZIYBEX-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ziybex.com)
+[![Email](https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shirazkk8@gmail.com)
 
-</div>
-
----
-
-## About Me
-
-I'm a **Full Stack & Agentic AI Developer** based in Karachi, building production-grade web applications and multi-agent AI systems for clients and enterprise platforms. I work as the **Lead Developer** at **Ziybex**, a creative marketing & web agency, and specialize in shipping real things — not just demos.
-
-- 🤖 Building **multi-agent AI systems** with real-world deployments (WhatsApp, Gmail, cron pipelines)
-- 🚀 Shipping full-stack apps on **Google Cloud Run**, **Vercel**, and **Docker**
-- 🧠 Deep in **Agentic AI** — MCP servers, ACP protocol, orchestration platforms
-- 🎓 **BSc Artificial Intelligence** @ SMIU + **Cloud Native Agentic AI Engineering** @ PIAIC
-- 🏢 Lead Developer at **Ziybex** — creative marketing & web agency
-- 🏆 Hackathon builder — GDG Kolachi Winner, Panaversity, Google AI Seekho 2026
-
----
-
-## Professional Experience
-
-### Lead Developer
-**Ziybex** *(Creative Marketing & Web Agency)* | *Present*
-
-- Delivering full-stack web solutions for clients including luxury event companies and real estate venues
-- Building AI-integrated marketing tools, transactional email systems, and landing pages
-- Managing end-to-end engineering pipelines: architectural design → development → deployment
-
-### Frontend Development Intern
-**DevelopersHub Corporation** | *March 2025 – July 2025*
-
-- Built responsive e-commerce platforms with pixel-perfect Figma implementation
-- Developed networking apps with dashboard and AI chatbot integration using Next.js, TypeScript, Tailwind, Shadcn
-
-### Founder
-**CodePulse Innovations**
-
-Founded and developed FolioGenerator.com, an AI-driven platform that enables users to instantly create professional portfolio websites from their resumes.
-Built and deployed the platform using modern web technologies, ensuring fast performance and scalability.
-Implemented a responsive and intuitive UI/UX for seamless access across all devices.
-Integrated cloud hosting and scalable backend solutions to deliver a smooth global user experience.
-Contributed to product vision, branding, and growth strategy, helping shape the platform from idea to launch.
-
----
-
-## Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-
-### AI & Agentic Systems
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-6D28D9?style=for-the-badge&logo=protocol&logoColor=white)
-
-### Backend & Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-## Hackathons
-
-| Hackathon | Project | Result |
-|---|---|---|
-| 🏆 GDG Kolachi | Bus Kahan Hai? (Real-time bus tracker) | **Winner** |
-| 🤖 Google AI Seekho 2026 | Ustaad.ai (Multi-agent tutoring platform) |
-| 💼 Panaversity | Personal AI Employee (Digital FTE) |
-
----
-
-## Certifications
-
-- 🤖 **Anthropic Claude** — Anthropic
-- 🤗 **Hugging Face** — Hugging Face
-- 🌐 **Microsoft / LinkedIn** — Microsoft
-- 🔒 **Cisco / ITU-DTC** — Cisco
-- 📡 **Huawei HCIA-IoT** — Huawei
-- 🧠 **AI Python for Beginners** — DeepLearning.AI (2024)
-- ⚛️ **React.js Certification** — HackerRank (2024)
-- 📘 **Introduction to TypeScript** — Great Learning (2024)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shirazkk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=shirazkk&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=shirazkk&theme=radical&hide_border=false" alt="GitHub Streak" />
+![Profile Views](https://komarev.com/ghpvc/?username=shirazkk&label=connections+established&color=39FF14&style=flat-square)
 
 </div>
 
----
+<br>
 
-## 🏷️ GitHub Topics
+```bash
+$ cat about.txt
+```
+
+> Full Stack & Agentic AI Developer based in Karachi, Pakistan — building
+> production-grade web apps and multi-agent AI systems for real clients,
+> not demos. Lead Developer @ Ziybex (creative marketing & web agency).
+>
+> root access: Next.js / FastAPI / multi-agent orchestration / MCP servers
+> currently shipping on Cloud Run, Vercel, Docker
+> status: BSc AI @ SMIU | Cloud Native Agentic AI Engineering @ PIAIC
+
+<br>
+
+```bash
+$ ./run --module=experience --verbose
+```
+
+<table>
+<tr><td>
+
+**[ACTIVE]** `Lead Developer` @ **Ziybex** — *Creative Marketing & Web Agency*
+> Delivering full-stack web solutions for clients including luxury event
+> companies & real estate venues. Building AI-integrated marketing tools,
+> transactional email systems, landing pages. Owning the pipeline:
+> architecture → development → deployment.
+
+</td></tr>
+<tr><td>
+
+**[COMPLETE]** `Frontend Dev Intern` @ **DevelopersHub Corporation** — *Mar 2025 – Jul 2025*
+> Built responsive e-commerce platforms with pixel-perfect Figma
+> implementation. Shipped networking apps with dashboard + AI chatbot
+> integration using Next.js, TypeScript, Tailwind, Shadcn.
+
+</td></tr>
+<tr><td>
+
+**[FOUNDED]** `Founder` @ **CodePulse Innovations**
+> Built **FolioGenerator.com** — AI-driven platform that turns resumes
+> into instant professional portfolio sites. Owned product, branding,
+> infra, and growth from idea to launch.
+
+</td></tr>
+</table>
+
+<br>
+
+```bash
+$ ls -la ~/skills/
+```
 
 <div align="center">
 
-[![Agentic AI](https://img.shields.io/badge/Topic-Agentic__AI-6D28D9?style=for-the-badge)](https://github.com/topics/agentic-ai)
-[![Full Stack](https://img.shields.io/badge/Topic-Full__Stack-007ACC?style=for-the-badge)](https://github.com/topics/full-stack)
-[![JAMstack](https://img.shields.io/badge/Topic-JAMstack-000000?style=for-the-badge)](https://github.com/topics/jamstack)
-[![Automation](https://img.shields.io/badge/Topic-Automation-3ECF8E?style=for-the-badge)](https://github.com/topics/automation)
+**frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,framer&theme=dark" />
+
+**ai · agentic systems**
+<br>
+<img src="https://skillicons.dev/icons?i=anthropic,openai,gemini,langchain,redis&theme=dark" />
+
+**backend · infra**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,python,nodejs,docker,gcp,vercel&theme=dark" />
+
+**databases**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql&theme=dark" />
+
+**tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,figma,playwright,vscode&theme=dark" />
 
 </div>
 
----
+<br>
 
-## 🏆 GitHub Trophies
+```bash
+$ grep -r "WON" ./hackathons/
+```
+
+| status | event | project |
+|:---:|:---|:---|
+| 🟢 `WINNER` | GDG Kolachi | Bus Kahan Hai? — real-time bus tracker |
+| 🟡 `SHIPPED` | Google AI Seekho 2026 | Ustaad.ai — multi-agent tutoring platform |
+| 🟡 `SHIPPED` | Panaversity | Personal AI Employee (Digital FTE) |
+
+<br>
+
+```bash
+$ find ./certifications -type f
+```
+
+`Anthropic Claude` · `Hugging Face` · `Microsoft / LinkedIn` · `Cisco / ITU-DTC` · `Huawei HCIA-IoT` · `AI Python for Beginners — DeepLearning.AI` · `React.js — HackerRank` · `Intro to TypeScript — Great Learning`
+
+<br>
+
+```bash
+$ top --stats --realtime
+```
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shirazkk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shirazkk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=00FF00&icon_color=39FF14&ring_color=39FF14" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirazkk&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=00FF00&icon_color=39FF14" />
+
+<img src="https://streak-stats.demolab.com/?user=shirazkk&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=00FF00&dates=00FF00&currStreakNum=39FF14&sideNums=39FF14" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shirazkk&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=00FF00&hide_border=true&area=true" />
+
 </div>
 
----
+<br>
 
-## Let's Connect
-
-Open to freelance projects, collaborations, and interesting conversations.
-
-- 💼 **LinkedIn:** [linkedin.com/in/shirazali8](https://linkedin.com/in/shirazali8)
-- 🌐 **Portfolio:** [shirazali-portfolio.vercel.app](https://shirazali-portfolio.vercel.app/)
-- 🏢 **Agency:** [ziybex.com](https://ziybex.com)
-- 📧 **Email:** shirazkk8@gmail.com
-
----
+```bash
+$ ./contribution-snake.sh --render
+```
 
 <div align="center">
 
-*Building agentic systems and cinematic web experiences from Karachi 🇵🇰*
+<img src="https://raw.githubusercontent.com/shirazkk/shirazkk/output/github-contribution-grid-snake-dark.svg" />
 
-![Coding](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
+<sub>⚠ one-time setup needed — workflow file provided separately, see notes below</sub>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" />
+</div>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=shirazkk&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-⭐ From [shirazkk](https://github.com/shirazkk)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shirazkk&theme=matrix&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" />
+
+</div>
+
+<br>
+
+```bash
+$ cat connect.json
+```
+
+```json
+{
+  "linkedin": "linkedin.com/in/shirazali8",
+  "portfolio": "shirazali-portfolio.vercel.app",
+  "agency": "ziybex.com",
+  "email": "shirazkk8@gmail.com",
+  "status": "open to freelance + collabs"
+}
+```
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0D1117&height=3&section=footer)
+
+`[shirazkk@karachi ~]$ echo "thanks for stopping by"`
+<br>
+`process exited (0)`
+
+⭐ from [shirazkk](https://github.com/shirazkk)
 
 </div>
