@@ -5,7 +5,7 @@
 └──╼ $ whoami
 ```
 
-# SHIRAZ ALI
+# SHIRAZ ABUBAKAR
 
 ![typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Agentic+AI+Developer;Lead+Developer+%40+Ziybex;Building+from+Karachi%2C+Pakistan)
 
